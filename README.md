@@ -1,11 +1,11 @@
-= xpathpal.com
+# xpathpal.com [![Build Status](https://travis-ci.org/ejhayes/xpathpal.com.png?branch=master)](https://travis-ci.org/ejhayes/xpathpal.com) 
 
 Both regexpal.com and rubular.com are great resources for regular expressions, but the existing sites out there
 are not really all that great for XPath.  This is my first stab at making it easier to learn and interact with
 XPath since the feedback is done in realtime rather than clicking submit, waiting, and wondering what the heck
 actually happened.
 
-== Getting started
+## Getting started
 
 To get started run the following:
 
@@ -13,7 +13,7 @@ To get started run the following:
 
 And you are good to go
 
-== Example usage
+## Example usage
 
     require 'xpather'
 
