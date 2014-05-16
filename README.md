@@ -1,4 +1,4 @@
-# xpathpal.com [![Build Status](https://travis-ci.org/ejhayes/xpathpal.com.png?branch=master)](https://travis-ci.org/ejhayes/xpathpal.com) 
+# xpathpal.com [![Build Status](https://travis-ci.org/ejhayes/xpathpal.com.png?branch=master)](https://travis-ci.org/ejhayes/xpathpal.com) [![Code Climate](https://codeclimate.com/github/ejhayes/xpathpal.com.png)](https://codeclimate.com/github/ejhayes/xpathpal.com)
 
 Both regexpal.com and rubular.com are great resources for regular expressions, but the existing sites out there
 are not really all that great for XPath.  This is my first stab at making it easier to learn and interact with
